@@ -1,1 +1,1 @@
-# pairwiseSequenceAllignment
+# localSequenceAllignment
